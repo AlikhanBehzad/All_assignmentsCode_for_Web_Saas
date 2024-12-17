@@ -1,0 +1,10 @@
+{
+    "alikhanbehzad95@gmail.com": {
+        "email": "alikhanbehzad95@gmail.com",
+        "age": 30
+    },
+    "m2316542@edu.misis.ru": {
+        "email": "m2316542@edu.misis.ru",
+        "age": 29
+    }
+}
